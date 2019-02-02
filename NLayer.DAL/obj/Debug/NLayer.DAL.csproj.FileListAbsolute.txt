@@ -1,0 +1,15 @@
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\obj\Debug\NLayer.DAL.csprojAssemblyReference.cache
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\obj\Debug\NLayer.DAL.csproj.CoreCompileInputs.cache
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\NLayer.DAL.dll.config
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\NLayer.DAL.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\NLayer.DAL.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\EntityFramework.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\NLayer.Entities.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\NLayer.Entities.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\NLayer.Entities.dll.config
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\EntityFramework.xml
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\obj\Debug\NLayer.DAL.csproj.CopyComplete
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\obj\Debug\NLayer.DAL.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.DAL\obj\Debug\NLayer.DAL.pdb

@@ -1,0 +1,12 @@
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\NLayer.Entities.dll.config
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\NLayer.Entities.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\NLayer.Entities.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\EntityFramework.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\EntityFramework.xml
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\obj\Debug\NLayer.Entities.csprojAssemblyReference.cache
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\obj\Debug\NLayer.Entities.csproj.CoreCompileInputs.cache
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\obj\Debug\NLayer.Entities.csproj.CopyComplete
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\obj\Debug\NLayer.Entities.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.Entities\obj\Debug\NLayer.Entities.pdb

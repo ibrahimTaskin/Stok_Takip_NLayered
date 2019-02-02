@@ -1,0 +1,15 @@
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.BLL.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.BLL.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\obj\Debug\NLayer.BLL.csprojAssemblyReference.cache
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\obj\Debug\NLayer.BLL.csproj.CoreCompileInputs.cache
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\obj\Debug\NLayer.BLL.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\obj\Debug\NLayer.BLL.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.DAL.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.Entities.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\EntityFramework.dll
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.DAL.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.DAL.dll.config
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.Entities.pdb
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\NLayer.Entities.dll.config
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\bin\Debug\EntityFramework.xml
+D:\Programlar\C# Proje\NLayerSample\NLayer.BLL\obj\Debug\NLayer.BLL.csproj.CopyComplete
